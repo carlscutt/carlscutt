@@ -64,4 +64,6 @@ CodeEngine (soon)
 
 Governed_lab (soon)
 
-Governed Auto Coder Versión 6 (soon)
+Governed Auto Coder Versión 6 
+https://github.com/carlscutt/ai-governance-v6-framework/blob/main/governed_auto_coder_V6_Beta_secure_deployment_20260607_080710.zip
+
