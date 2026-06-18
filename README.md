@@ -60,7 +60,8 @@ https://chatmagicai.com
 Portfolio Page
 https://chatmagicai.com/portfolio_homepage.html
 
-CodeEngine (soon)
+CodeEngine
+https://github.com/carlscutt/CodeEngine/blob/main/CodeEngine_v2.zip
 
 Governed_lab (soon)
 
