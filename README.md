@@ -53,3 +53,15 @@ Safe autonomy
 
 📫 Let’s Connect
 If you’re working on agentic systems, evaluation frameworks, or AI governance, I’d love to connect.
+
+Website
+https://chatmagicai.com
+
+Portfolio Page
+https://chatmagicai.com/portfolio_homepage.html
+
+CodeEngine (soon)
+
+Governed_lab (soon)
+
+Governed Auto Coder Versión 6 (soon)
